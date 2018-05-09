@@ -1,0 +1,50 @@
+$color6: #efefef;
+$color5: #5db442;
+
+.footer{
+font-family: 'Roboto', sans-serif;
+background-color: $color6;
+margin-top: 80px;
+padding-top: 50px;
+
+	.footer-top{
+	padding-left: 50px;
+	}		
+		input{
+		font-size: 12px;
+		font-style: italic;
+		min-height: 35px;
+		width: 200px;
+		padding-left: 10px;
+		color: #dedede;
+		position: absolute;
+		}
+		button{
+		background: $color5;
+		font-size: 22px;
+	    min-width: 50px;
+	    min-height: 35px;
+	    color: white;
+	    border: $color5;
+	    margin-left: 200px;
+		}
+
+		ul{
+		list-style: none;
+			a{
+			text-decoration: none;
+			color: #404040;
+			}
+		}
+
+		hr{
+		min-width: 100%;
+	    border: 1px solid #ccc;
+		}
+
+		.footer-bottom{
+		padding-left: 50px;
+		}
+
+		
+}

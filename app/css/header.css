@@ -1,0 +1,14 @@
+.header-cont {
+  padding-left: 125px;
+  padding-right: 185px; }
+
+#headerNavbar {
+  padding-top: 10px;
+  min-width: 180px; }
+  #headerNavbar i {
+    color: #f0f0f0; }
+
+.contact a {
+  font-family: 'Roboto', sans-serif;
+  color: #f0f0f0;
+  text-decoration: none; }

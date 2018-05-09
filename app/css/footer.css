@@ -1,0 +1,33 @@
+.footer {
+  font-family: 'Roboto', sans-serif;
+  background-color: #efefef;
+  margin-top: 80px;
+  padding-top: 50px; }
+  .footer .footer-top {
+    padding-left: 50px; }
+  .footer input {
+    font-size: 12px;
+    font-style: italic;
+    min-height: 35px;
+    width: 200px;
+    padding-left: 10px;
+    color: #dedede;
+    position: absolute; }
+  .footer button {
+    background: #5db442;
+    font-size: 22px;
+    min-width: 50px;
+    min-height: 35px;
+    color: white;
+    border: #5db442;
+    margin-left: 200px; }
+  .footer ul {
+    list-style: none; }
+    .footer ul a {
+      text-decoration: none;
+      color: #404040; }
+  .footer hr {
+    min-width: 100%;
+    border: 1px solid #ccc; }
+  .footer .footer-bottom {
+    padding-left: 50px; }
